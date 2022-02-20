@@ -38,6 +38,7 @@ Algoritmo sin_titulo
 	
 	mostrar "El monto del cambio es " billetes - monto_total "$"
 	mostrar "En Bs es " (billetes - monto_total) * tasa_cambio
+	Mostrar "agrege estas lineas para eñ desafio 4"
 	
 	
 FinAlgoritmo
